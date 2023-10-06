@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eman Mahfouz</h1>
 <h3 align="center">Flutter developer and CS student</h3>
-<img alt"coding" src = "![giphy](https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/6fdac22a-b39c-46ce-b7c7-e1b1ba12de66)">
+<img alt"coding" src = "![giphy](https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/6fdac22a-b39c-46ce-b7c7-e1b1ba12de66) width="400">
 
 
 <h3 align="left">Connect with me:</h3>
