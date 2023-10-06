@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PCY_707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pcy_707" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/eman-mahfouzeman-mahfouz-2b7463243](https://www.linkedin.com/in/eman-mahfouz-2b7463243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman mahfouz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman mahfouz" height="30" width="40" /></a>
 <a href="https://fb.com/emanmahfouz144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eman mahfouz" height="30" width="40" /></a>
 </p>
 
