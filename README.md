@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eman Mahfouz</h1>
 <h3 align="center">Flutter developer and CS student</h3>
 
-![giphy](https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96)
+<center>![giphy](https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96)</center>
 
 
 <h3 align="left">Connect with me:</h3>
