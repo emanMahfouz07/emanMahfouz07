@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Eman Mahfouz</h1>
 <p>A passionate Flutter developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
+![giphy](https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96)
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
