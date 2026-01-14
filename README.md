@@ -1,7 +1,13 @@
-<h1>Hi 👋, I'm Eman Mahfouz</h1>
-<p>A passionate Flutter developer </p>
+<h1 align="center">Hi there! 👋</h1>
+<p align="center"> ,I'm Eman Mahfouz, a passionate Flutter developer with a strong interest in building high-quality and impactful applications</p>
+
+<p align="center">
+  <img src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96"
+       width="300"
+       alt="giphy animation" />
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
-<img src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96" width="200" alt="giphy animation" />
 
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
