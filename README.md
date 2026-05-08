@@ -20,41 +20,39 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 
+**📱 Mobile Development**
+
 <p>
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42"/></a>
   &nbsp;
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
-  &nbsp;
+</p>
+
+**🗄️ Backend & Database**
+
+<p>
   <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>
   &nbsp;
-  <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
-  &nbsp;
+  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
+</p>
+
+**🛠️ Tools & Design**
+
+<p>
   <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
   &nbsp;
+  <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
+</p>
+
+**💻 Other Languages**
+
+<p>
   <a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
   &nbsp;
   <a href="https://cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/></a>
   &nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
 </p>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=emanMahfouz07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02B4FF&icon_color=02B4FF&text_color=c9d1d9&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanMahfouz07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02B4FF&text_color=c9d1d9" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=emanMahfouz07&theme=tokyonight&hide_border=true&background=0d1117&ring=02B4FF&fire=FF6B6B&currStreakLabel=02B4FF" height="170"/>
-
-</div>
 
 ---
 
@@ -74,6 +72,14 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook"/>
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:emankahled614@gmail.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail" title="Gmail"/>
     </picture>
   </a>
 </p>
