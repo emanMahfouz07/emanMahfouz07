@@ -1,67 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B4FF,100:0066FF&height=200&section=header&text=Eman%20Mahfouz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B4FF,100:0066FF&height=200&section=header&text=Eman%20Mahfouz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">I'm Eman Mahfouz, a passionate Flutter developer with a strong interest in building high-quality and impactful applications</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96" width="300" alt="giphy animation"/>
+</p>
+
+<br/>
+
+---
+
+<h2>🚀 Languages and Tools I Use</h2>
+
+<p>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42"/></a>
   &nbsp;
-  <a href="https://www.facebook.com/emanmahfouz144">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</div>
-
-<br/>
-
----
-
-<img align="right" src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96" width="260" alt="coding gif"/>
-
-### 👩‍💻 About Me
-
-- 🎯 Passionate **Flutter developer** focused on building high-quality mobile apps
-- 📱 I love crafting smooth, pixel-perfect experiences for both Android & iOS
-- 🌱 Always learning and keeping up with the latest in mobile development
-- 💡 I enjoy turning ideas into real, impactful products
-- 🤝 Open to collaborating on interesting Flutter projects
-
-<br clear="right"/>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/></a>
+  &nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Mobile & Languages**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -69,7 +50,7 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanMahfouz07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02B4FF&text_color=c9d1d9" height="170"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=emanMahfouz07&theme=tokyonight&hide_border=true&background=0d1117&ring=02B4FF&fire=FF6B6B&currStreakLabel=02B4FF" height="170"/>
 
@@ -77,28 +58,28 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h2>⚡️ Where to find me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/emanmahfouz144" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook"/>
+    </picture>
+  </a>
+</p>
+
+<br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emanMahfouz07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanMahfouz07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=02B4FF&line=0066FF&point=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:02B4FF&height=120&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:02B4FF&height=120&section=footer" width="100%"/>
 </div>
