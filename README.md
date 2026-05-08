@@ -91,15 +91,9 @@ I'm Eman Mahfouz, a passionate Flutter developer with a strong interest in build
 <a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-
-&nbsp;&nbsp;
-
 <a href="https://www.facebook.com/emanmahfouz144" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
 </a>
-
-&nbsp;&nbsp;
-
 <a href="mailto:emankahled614@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
