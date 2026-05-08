@@ -1,24 +1,124 @@
-<h1 align="center">Hi there! 👋</h1>
-<p align="center"> I'm Eman Mahfouz, a passionate Flutter developer with a strong interest in building high-quality and impactful applications</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96"
-       width="300"
-       alt="giphy animation" />
+# Hey, I'm Eman 👋  
+### Flutter Developer • UI Enthusiast • Problem Solver
+
+<p>
+I build modern mobile applications using Flutter with clean architecture, responsive UI, and smooth user experiences ✨
 </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<img src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96" width="280"/>
 
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p align="left"> <a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<br/>
 
-<p align="left"> <a href="https://www.facebook.com/emanmahfouz144" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-mahfouz-2b7463243/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emanmahfouz144)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+# 💫 About Me
+
+```dart
+class EmanMahfouz {
+  final String role = "Flutter Developer";
+  
+  final List<String> skills = [
+    "Flutter",
+    "Dart",
+    "REST APIs",
+    "Cubit & Bloc",
+    "MVVM Architecture",
+    "Firebase",
+    "Responsive UI",
+  ];
+
+  final List<String> currentlyLearning = [
+    "UI/UX Design",
+    "Clean Architecture",
+    "Advanced Flutter Animations"
+  ];
+}
+```
+
+- 📱 Building cross-platform mobile apps with Flutter  
+- 🎨 Passionate about clean UI and smooth UX  
+- 🧠 Interested in app architecture & scalable code  
+- 🚀 Always learning and improving every day  
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github,python,cpp,c,sqlite,vscode&perline=6" />
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+## 🛋️ Benta — Furniture E-Commerce App
+- Flutter application built using MVVM Architecture
+- REST API integration
+- Cart & Favorites system
+- Paymob payment integration
+- Responsive modern UI
+
+---
+
+## 🗺️ Maps App
+- Real-time location tracking
+- Route drawing between locations
+- OpenStreetMap integration
+- Dark mode support
+
+---
+
+## 💡 Lakini — Graduation Project
+- Lost & Found platform
+- Chat system & notifications
+- Image and location sharing
+- Built with Flutter & .NET
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=emanMahfouz07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=emanMahfouz07&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanMahfouz07&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="52" />
+</a>
+
+<a href="https://www.facebook.com/emanmahfouz144">
+  <img src="https://skillicons.dev/icons?i=facebook" width="52" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code is where creativity meets logic.” ✨
+
+</div>
