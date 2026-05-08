@@ -6,7 +6,9 @@
 
 <br/>
 
-<p align="center">I'm Eman Mahfouz, a passionate Flutter developer with a strong interest in building high-quality and impactful applications</p>
+<p align="center">
+I'm Eman Mahfouz, a passionate Flutter developer with a strong interest in building high-quality and impactful applications
+</p>
 
 <br/>
 
@@ -16,26 +18,67 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-**📱 Mobile Development**
+<table>
+<tr>
 
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42"/></a>
+<td valign="top" width="33%">
 
-**🗄️ Backend & Database**
+### 📱 Mobile Development
 
-<a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>
-<a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48"/>
+  </a>
+  
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" width="48"/>
+  </a>
+</p>
 
-**🛠️ Tools & Design**
+</td>
 
-<a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
+<td valign="top" width="33%">
 
-**💻 Other Languages**
+### 🗄️ Backend & Database
 
-<a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
-<a href="https://cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
+<p align="center">
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+  </a>
+
+  <a href="https://www.microsoft.com/sql-server" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  </a>
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🛠️ Tools & Design
+
+<p align="center">
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  </a>
+
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" width="48"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="48"/>
+  </a>
+
+  <a href="https://cplusplus.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -43,30 +86,24 @@
 
 <h2>⚡️ Where to find me</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/emanmahfouz144" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook"/>
-    </picture>
-  </a>
-  &nbsp;
-  <a href="mailto:emankahled614@gmail.com" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail" title="Gmail"/>
-    </picture>
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eman-mahfouz-2b7463243/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/emanmahfouz144" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:emankahled614@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
 </p>
 
 <br/>
