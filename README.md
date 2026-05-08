@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B4FF,100:0066FF&height=200&section=header&text=Eman%20Mahfouz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B4FF,100:0066FF&height=200&section=header&text=Eman%20Mahfouz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -24,21 +24,11 @@
 
 ### 👩‍💻 About Me
 
-```dart
-class EmanMahfouz extends FlutterDeveloper {
-  final String name    = "Eman Mahfouz";
-  final String role    = "Flutter Developer";
-  final String passion = "Building impactful mobile apps";
-
-  List<String> get currentFocus => [
-    "Cross-platform mobile development",
-    "Clean architecture & best practices",
-    "Pixel-perfect UI/UX",
-  ];
-
-  bool get openToWork => true;
-}
-```
+- 🎯 Passionate **Flutter developer** focused on building high-quality mobile apps
+- 📱 I love crafting smooth, pixel-perfect experiences for both Android & iOS
+- 🌱 Always learning and keeping up with the latest in mobile development
+- 💡 I enjoy turning ideas into real, impactful products
+- 🤝 Open to collaborating on interesting Flutter projects
 
 <br clear="right"/>
 
