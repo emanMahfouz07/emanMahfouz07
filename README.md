@@ -43,6 +43,7 @@ class EmanMahfouz {
 }
 ```
 
+
 - 📱 Building cross-platform mobile apps with Flutter  
 - 🎨 Passionate about clean UI and smooth UX  
 - 🧠 Interested in app architecture & scalable code  
