@@ -10,49 +10,34 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96" width="300" alt="giphy animation"/>
-</p>
-
-<br/>
-
 ---
+
+<img align="right" src="https://github.com/emanMahfouz07/emanMahfouz07/assets/91251019/23b932d7-d64c-4ebc-a931-94a708171c96" width="280" alt="giphy animation"/>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
 **📱 Mobile Development**
 
-<p>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42"/></a>
-</p>
+<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42"/></a>
 
 **🗄️ Backend & Database**
 
-<p>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
-</p>
+<a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/></a>
+<a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
 
 **🛠️ Tools & Design**
 
-<p>
-  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
-</p>
+<a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
+<a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/></a>
 
 **💻 Other Languages**
 
-<p>
-  <a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/></a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
-</p>
+<a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
+<a href="https://cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
+
+<br clear="right"/>
 
 ---
 
